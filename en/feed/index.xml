@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BCSilva</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Graphic &#38; Webdesign</description>
+	<lastBuildDate>Mon, 25 Feb 2019 02:09:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>./../../wp-content/uploads/2019/01/cropped-bcsilva-black-32x32.png</url>
+	<title>BCSilva</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenGameArt + and some assets by me!</title>
+		<link>./../gamedev/opengameart-alguns-materiais-meus/index.html</link>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2019 01:33:24 +0000</pubDate>
+				<category><![CDATA[freebies]]></category>
+		<category><![CDATA[Gamedev]]></category>
+		<category><![CDATA[opengameart[]]></category>
+		<category><![CDATA[public domain]]></category>
+		<guid isPermaLink="false">./../../index.html?p=1364</guid>
+
+					<description><![CDATA[<p>Meet OpenGameArt, a site where you can find many resources, related to games, public domain to use in your gamedev projects. Also, I'm uploading some interesting stuff there! <a href="./../gamedev/opengameart-alguns-materiais-meus/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../gamedev/opengameart-alguns-materiais-meus/index.html">OpenGameArt + and some assets by me!</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p>
+<p>Meet OpenGameArt, a site where you can find many resources, related to games, public domain to use in your gamedev projects. Also, I&#8217;m uploading some interesting stuff there!</p>
+
+<p>&nbsp;</p>
+
+<p><span id="more-1364"></span></p>
+
+<p>&nbsp;</p>
+
+<p>Hello folks, how are you doing?</p>
+
+<p>&nbsp;</p>
+
+<p>During these years, I had several games development experiments, where I could program, work with 2d animations and level design for hobby..</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><img class="aligncenter" src="https://baixaki.com.br/imagens/internas/sonicbras7.jpg" alt="Porco-espinho nacional" />
+<figcaption><a href="https://www.baixaki.com.br/download/brasonic.htm" target="_blank" rel="noreferrer noopener" aria-label="Clique aqui para baixar (opens in a new tab)">Clique aqui para baixar</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p>A clear example is <strong>BrazSonic</strong> (BraSonic in portuguese), a freeware game which I released in 2004, where you play with a brazilian version of Sonic the Hedgehog, who needs to save the day from the corruption forces running through many sceneries based on some Brazil&#8217;s places. In addition to it, I ventured into other game projects, including the BrazSonic sequel, in my spare time, which I unfortunately could not take far ahead because of the lack of time invested in it.</p>
+
+<p>&nbsp;</p>
+
+<p>I&#8217;m currently digging up some of the work I&#8217;ve done from scratch, which I think might be useful for game developers to use in their projects.</p>
+
+<p>&nbsp;</p>
+
+<p>One of the online solutions for artists who choose to make part of their works reusable, is the <a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer"><strong>OpenGameArt</strong></a>, a site that offers free materials that can be reused by other artists and game developers.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><img class="aligncenter" src="https://educacaolivrebti.files.wordpress.com/2015/04/open-game-art.jpg" alt="Resultado de imagem para open game art" /></figure>
+
+<p>&nbsp;</p>
+
+<p>This website&#8217;s archive already has thousands of 2d and 3d art materials, pixel-art, sound effects, music tracks, all with different kinds of license levels of use such as Creative Commons and GPL. It reminds you a bit of sites like <strong>Pixabay</strong>, but more specific.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1367 aligncenter" src="./../../wp-content/uploads/2019/02/image-2-1024x766.png" rel='magnific' alt="Opengameart.org" /></a></figure>
+
+<p>&nbsp;</p>
+
+<p>As I said before, the work I&#8217;m making available will be some 2d character animations, background and tile sets. Most inspired by the 2d games of the 16-bit era, like Sonic games themselves.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><a href="https://opengameart.org/users/bcsilva" target="_blank" rel="noopener noreferrer"><img class="wp-image-1366 aligncenter" src="./../../wp-content/uploads/2019/02/image-1.png" rel='magnific' alt="bcsilva@opengameart" /></a></figure>
+
+<p>&nbsp;</p>
+
+<p>To access them, just go through<a href="https://opengameart.org/users/bcsilva">: https://opengameart.org/users/bcsilva</a>.</p>
+<div class="tlid-results-container results-container">
+<div class="tlid-result result-dict-wrapper">
+<div class="result tlid-copy-target">
+<div class="result-header">
+<div class="starbutton jfk-button-flat jfk-button unstarred" tabindex="0" role="button" aria-label="Marcar tradução com estrela" data-tooltip="Marcar tradução com estrela" data-tooltip-align="t,c">
+<div class="jfk-button-img">And I beg you to credit me by using some of my materials!</div>
+</div>
+<div> </div>
+<div>Good luck!</div>
+</div>
+</div>
+</div>
+</div>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fgamedev%2Fopengameart-alguns-materiais-meus%2F&amp;linkname=OpenGameArt%20%2B%20and%20some%20assets%20by%20me%21" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>The post <a rel="nofollow" href="./../gamedev/opengameart-alguns-materiais-meus/index.html">OpenGameArt + and some assets by me!</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>window.localStorage: practical application</title>
+		<link>./../javascript/aplicacao-pratica-do-window-localstorage/index.html</link>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Thu, 13 Dec 2018 14:13:41 +0000</pubDate>
+				<category><![CDATA[Gamedev]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">./../../index.html?p=1307</guid>
+
+					<description><![CDATA[<p>(Português) Aplicação prática do recurso window.localStorage, similar aos Cookies e sessionStorage, através de uma demonstração de um projeto de jogo! <a href="./../javascript/aplicacao-pratica-do-window-localstorage/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../javascript/aplicacao-pratica-do-window-localstorage/index.html">window.localStorage: practical application</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>Practical application of the window.localStorage feature, similar to Cookies and sessionStorage, through a demo of a game project!</p>
+<p><span id="more-1307"></span></p>
+<p>Howdy devs!</p>
+<p>Recently I&#8217;ve been exploring several things about Front-end and Gamedev. One of them was a recent experiment I did with window.localStorage.</p>
+<h2>Mas o que consiste no window.localStorage?</h2>
+<p>As the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage" target="_blank" rel="noopener">Mozilla</a> says, it is a read-only property that allows access to Storage object from origin page.</p>
+<p>This allows to memorize information without losing them to page reloading, similar to cookies and sessionStorage features.</p>
+<p>As advantages, localStorage&#8230;</p>
+<ul>
+<li>storage limit of 5MB, much higher than that of Cookies, 4KB;</li>
+<li>does not depend on HTTP requests, which reduces client-server demand</li>
+<li>has no expiration time as sessionStorage and Cookies (when configured for this)</li>
+<li>can be deleted while cleaning the browser&#8217;s storage.</li>
+</ul>
+<p>However, they are more restricted due to only be used in local storage and in same-origin documents, that is, on the same page.</p>
+<p>The latter reason is a good for single page applications to use, but not for other applications that depend on the server for browsing pages of the site for example.</p>
+<h2>Practical Application</h2>
+<p>Going back to that experiment, it is a simple demonstration that emphasizes the use of localStorage and also the application of videogame concepts, with character movement through the screen and UI. I see this as a more dynamic way of putting learning into practice.</p>
+<p>After having a brief knowledge about the localStorage, I did a research to acquire assets (graphics for backgrounds, textures, animations, etc) for sceneries and character of the game. I some of sites like <a href="https://opengameart.org/" target="_blank" rel="noopener">Opengameart</a> and <a href="https://www.spriters-resource.com/" target="_blank" rel="noopener">Spriters Resource</a>. At that point, I already had at least one &#8220;scenery&#8221; and &#8220;character&#8221; to go on. The use of the localStorage here will be to save the position of the player on the screen, through its X and Y coordinates.</p>
+<p><img class="aligncenter wp-image-1332 size-full" src="./../../wp-content/uploads/2018/12/localstorageASSETS.jpg" alt="assets" width="566" height="139" /></p>
+<p><strong>Directory structures:</strong></p>
+<ul>
+<li>Assets: css, js, imagens, etc files;</li>
+<li>Raiz: onde irá o index.html;</li>
+</ul>
+<h3>HTML: the &#8220;skeleton&#8221;</h3>
+<p>Initially, I did an HTML structure to render the elements (scenery, character, interface) on the screen, giving them recognizable classes and ids to work easier through CSS and JS later.</p>
+<pre>&lt;center&gt;
+&lt;form&gt;
+    &lt;fieldset class="ui"&gt;
+        &lt;div class="controls"&gt;
+            &lt;button class="controls__btn" id="btn_left" type="button"&gt;⮜&lt;/button&gt;
+            &lt;button class="controls__btn" id="btn_up" type="button"&gt;⮝&lt;/button&gt;
+            &lt;button class="controls__btn" id="btn_right" type="button"&gt;⮞&lt;/button&gt;
+            &lt;button class="controls__btn" id="btn_down" type="button"&gt;⮟&lt;/button&gt;
+            &lt;button class="controls__btn" id="btn_reset" type="button"&gt;Reset Game&lt;/button&gt;
+        &lt;/div&gt;        
+    &lt;/fieldset&gt;
+    &lt;fieldset class="screen"&gt;
+        &lt;div class="map"&gt;
+            &lt;div class="player" id="player1"&gt;&lt;/div&gt;
+        &lt;/div&gt;        
+    &lt;/fieldset&gt;
+&lt;/form&gt;
+&lt;/center&gt;
+</pre>
+<p>For the game screen there is the .screen element, which nests the .map element for the scenery and the #player element for player. The interface is in the .ui element, which nests the .controls, for the command buttons to interact with the player.</p>
+<p><div id="attachment_1331" style="width: 1375px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1331" class="wp-image-1331 size-full" src="./../../wp-content/uploads/2018/12/localstorageHTML.jpg" alt="demoHTML" width="1365" height="762" /><p id="caption-attachment-1331" class="wp-caption-text">Looks empty? Blame it to CSS!</p></div></p>
+<h3>CSS: styles and customization</h3>
+<p>To give more personality to these elements, some CSS rules will be used, which will be useful to give colors, sizes, positions, effects and textures to them. I preferred to use an external CSS file (assets / game.css) for better organization.</p>
+<pre>body,* {
+    box-sizing: border-box;
+}
+fieldset {
+    margin: 0;
+    padding:0;
+    border:0;
+}
+fieldset.screen {
+    width: 100%;
+    height: calc(100vh - 28.4px);
+}
+fieldset.screen .map{
+    background-image: url(/assets/grass.jpg);
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    position:relative;
+    overflow:hidden;
+}
+fieldset.screen .map .player{
+    background-image: url(../assets/hero.gif);
+    width:32px;
+    height:32px;
+    top:50%;
+    left:50%;
+    position:absolute;
+}
+</pre>
+<p>I strongly recommend incorporating normalize.css before this CSS for better results, like eliminating unnecessary standards like margins.</p>
+<p>On this way, inside the &lt;head&gt; tag we put:</p>
+<pre>    &lt;link rel="stylesheet" href="assets/normalize.css"/&gt;
+    &lt;link rel="stylesheet" href="assets/game.css"/&gt;
+</pre>
+<p><div id="attachment_1330" style="width: 1375px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1330" class="wp-image-1330 size-full" src="./../../wp-content/uploads/2018/12/localstorageCSS.jpg" alt="demoCSS" width="1365" height="762" /><p id="caption-attachment-1330" class="wp-caption-text">Better! So, let&#8217;s make the magic to work!</p></div></p>
+<h3>Javascript: variables, functions, engine, etc</h3>
+<p>Now the adventure really begins. Using the javascript game.js file, within the assets / directory, you will create the business rules and finally use the localStorage for the project. Thus, we declare in the HTML, at the end of the &lt;body&gt; tag the game.js call:</p>
+<pre>   &lt;script src="assets/game.js"&gt;&lt;/script&gt;
+</pre>
+<p>We begin by declaring the variables used throughout the process.</p>
+<pre>//instancing the DOM elements
+const player = document.querySelector('#player1');    
+const btnLeft = document.querySelector('#btn_left');
+const btnUp = document.querySelector('#btn_up');
+const btnRight = document.querySelector('#btn_right');
+const btnDown = document.querySelector('#btn_down');
+const btnReset = document.querySelector('#btn_reset');
+    
+//auxiliary vars, such as coordinates, player speed, player size
+let _xx = 0;
+let _yy = 0;
+let xx = 0;
+let yy = 0;
+let spd = 16;
+let playerSize = 32;
+    
+//bounding vars for the map
+let mapWidth = document.querySelector('.map').offsetWidth;
+let mapHeight = document.querySelector('.map').offsetHeight;
+
+//bounding vars for the player movement, in order to keep it inside the map
+const minX = -mapWidth/2;
+const minY = -mapHeight/2;
+const maxX = mapWidth/2-playerSize;
+const maxY = mapHeight/2-playerSize;
+</pre>
+<p>The localStorage object will be mandatory and cannot be forgotten to be declared.</p>
+<pre>//localstorage instance
+myStorage = window.localStorage;  
+</pre>
+<p>The savePos function, will be essential for feeding the localStorage vars playerX e playerY.</p>
+<pre>//function for setting the vars from LocalStorage as player x,y coordinates
+function savePos(storage,x,y){ 
+    storage.setItem('playerX',x);
+    storage.setItem('playerY',y);
+}
+</pre>
+<p>The function movePlayer works for move the character across the screen according the direction given (using angular units), then updates its position on the screen, and calls savePos function for save the coordinates on localStorage.</p>
+<pre>//character movement function
+function movePlayer(_player,x,y,dir){
+    //updates the character coordinates within the map bounds
+    switch(dir){
+        case 0: if (xx&lt;maxX) xx += spd; else xx=maxX; break;
+        case 90: if (yy&gt;minY) yy -= spd; else yy=minY; break;
+        case 180: if (xx&gt;minX) xx -= spd; else xx=minX; break;
+        case 270: if (yy&lt;maxY) yy += spd; else yy=maxY; break;
+    }
+    //inline css for displaying the character on screen, regarding its coordinates, on a responsive way
+    player.setAttribute('style', 'left:calc(50% + '+x+'px) !important;top:calc(50% + '+y+'px) !important;');
+
+    //after moving the player, calls the savePos function
+    savePos(myStorage,x,y);
+}
+</pre>
+<p>With the declared variables and functions created, the business rules for project execution begin. There, we first check if local storage is supported using (if (typeof (Storage)! == &#8220;undefined&#8221;)); we confirm the existence of the variables of it playerX and playerY and afterall we get ties of communication with the command buttons DOM elements through the addEventListener to command the player.</p>
+<pre>//checks if there is localstorage support
+if(typeof(Storage) !== "undefined") {
+       
+    //loads the localStorage vars when inits
+    _xx = parseInt(myStorage.getItem('playerX'));
+    _yy = parseInt(myStorage.getItem('playerY'));
+    
+    if (myStorage.playerX === undefined) _xx=0; 
+    if (myStorage.playerX === undefined) _yy=0;
+
+    xx = _xx;
+    yy = _yy;
+
+    movePlayer(player,xx,yy);
+    
+    //click listeners + movement
+    btnLeft.addEventListener("click", function(){
+        movePlayer(player,xx,yy,180);
+    });
+    btnUp.addEventListener("click", function(){
+        movePlayer(player,xx,yy,90);
+    });
+    btnRight.addEventListener("click", function(){
+        movePlayer(player,xx,yy,0);
+    });
+    btnDown.addEventListener("click", function(){
+        movePlayer(player,xx,yy,270);
+    });
+    //botão de reset do localStorage, limpa as variáveis usadas 
+    btnReset.addEventListener("click", function(){
+        xx=0;
+        yy=0;
+        myStorage.clear(); 
+        movePlayer(player,xx,yy,270);
+    });
+    
+} else {
+    // error msg
+    console.log('Sem suporte a web storage')
+}
+</pre>
+<p>As bonus, keyboard keys movement, thanks to this <a href="https://stackoverflow.com/questions/5597060/detecting-arrow-key-presses-in-javascript" target="_blank" rel="noopener">Stack Overflow</a> thread.</p>
+<pre>document.onkeydown = checkKey;
+
+function checkKey(e) {
+    e = e || window.event;
+    if (e.keyCode == '38') {
+        // up arrow
+        movePlayer(player,xx,yy,90);
+    }
+    else if (e.keyCode == '40') {
+        // down arrow
+        movePlayer(player,xx,yy,270);
+    }
+    else if (e.keyCode == '37') {
+       // left arrow
+        movePlayer(player,xx,yy,180);
+    }
+    else if (e.keyCode == '39') {
+       // right arrow
+        movePlayer(player,xx,yy,0);
+    }
+}
+</pre>
+<p>For running, you can use the NPM http-serve (<a href="https://www.npmjs.com/package/http-serve" target="_blank" rel="noopener">saiba mais</a>), or uploading on a HTTP server.</p>
+<p>After this implementation, while running on the browser, we can consult the localStorage via browser&#8217;s inspector tools. On Chrome, for instance, via Application &gt; Storage &gt; Local Storage, we are able to see the vars there.</p>
+<p><img class="alignnone size-full wp-image-1336 aligncenter" src="./../../wp-content/uploads/2018/12/localstorageInspetor-1.jpg" alt="Inspetor" width="712" height="515" /></p>
+<p>As vars, we see playerX and playerY being stored each step the player goes on X e Y coordinates. And after refreshing the page, the player will be displayed at the same last position.</p>
+<p><a href="https://codepen.io/bcsilva/pen/xmZGNj" target="_blank" rel="noopener">Check the DEMO on Codepen (no textures).</a></p>
+<h2>Conclusion</h2>
+<p>The localStorage, even being restricted to a source, has a generous storage and permanence in the browser without expiration.</p>
+<p>This can be very useful, as I said earlier, for Single Page Applications, such as web applications and browser games,for storing browser data more quickly and accurately.</p>
+<p>The code can be taken via Gitlab repository:<br />
+<a href="https://gitlab.com/bcs9000/js-local-storage" target="_blank" rel="noopener">https://gitlab.com/bcs9000/js-local-storage</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fjavascript%2Faplicacao-pratica-do-window-localstorage%2F&amp;linkname=window.localStorage%3A%20practical%20application" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>The post <a rel="nofollow" href="./../javascript/aplicacao-pratica-do-window-localstorage/index.html">window.localStorage: practical application</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pixel Show 2018: creativity, innovation and culture</title>
+		<link>./../eventos/pixel-show-2018-criatividade-inovacao-e-cultura/index.html</link>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Sat, 03 Nov 2018 01:53:16 +0000</pubDate>
+				<category><![CDATA[Eventos]]></category>
+		<guid isPermaLink="false">./../../index.html?p=1294</guid>
+
+					<description><![CDATA[<p>On November 10th and 11st, we are going to have Pixel Show 2018, here in Sao Paulo, Brazil. The Pixel Show event, organized by Zupi, is a festival focused on creativity, innovation, entrepreneurship and general culture, in a reserved space, <a href="./../eventos/pixel-show-2018-criatividade-inovacao-e-cultura/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../eventos/pixel-show-2018-criatividade-inovacao-e-cultura/index.html">Pixel Show 2018: creativity, innovation and culture</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>On November 10th and 11st, we are going to have Pixel Show 2018, here in Sao Paulo, Brazil.</p>
+<p>The Pixel Show event, organized by Zupi, is a festival focused on creativity, innovation, entrepreneurship and general culture, in a reserved space, for two days (Saturday and Sunday), where happen lectures by acclaimed professionals (national and international), workshops assorted brands and makers and music bands shows.</p>
+<p><span id="more-1294"></span></p>
+<p>I was on last year edition, where my focus was watching the lectures only, on both days. Of those lectures I have watched, they have emphasized branding, graphic design and digital marketing, trends on a global way. The lecture that kept me most of attenton, was the Austrian designer Stefan Sagmeister, who has a long history with established bands such as Rolling Stones, Talking Heads and Lou Reed. In addition, I spent some of my time with the makers area, where I was able to get to know a little more about their products, creative processes, buying their goodies. Also I got gifts from brand booths, such Posca and Compact, and in special was the Sebrae-SP space, where people had the possibility of practicing their arts by stamping them on T-shirts, mugs, tote bags and notepads, so that they could be shared with other artists. It was a remarkable experience for a year-end event.</p>
+<p>&nbsp;</p>
+<p>Now on 2018 edition, I intend to keep my focus more on workshops, because there are still many interesting workshops avaliable (<a href="https://pixelshow.co/workshops/" target="_blank" rel="noopener">click here</a>). And if you look for the lectures, <a href="https://pixelshow.co/conferencia-internacional-de-criatividade/" target="_blank" rel="noopener">there are cool stuff on the official website</a>. I even took the opportunity to share the official release of the event.</p>
+<p style="text-align: center;"><iframe src="https://player.vimeo.com/video/246434721" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+<a href="https://vimeo.com/246434721?width=1080" data-rel="lightbox-video-0">Pixel Show 2018 official release</a> from <a href="https://vimeo.com/terreo">Térreo Estúdio</a> on <a href="https://vimeo.com/">Vimeo</a>.</p>
+<p>Address: Centro de Eventos Pro Magno, Av. Profa. Ida Kolb, 513- Jardim das Laranjeiras (<a href="https://www.google.com/maps/place/Av.+Profa.+Ida+Kolb,+513+-+Jardim+das+Laranjeiras,+S%C3%A3o+Paulo+-+SP,+01418-200/@-23.5091585,-46.6707582,17z/data=!3m1!4b1!4m5!3m4!1s0x94cef7f6ec1687eb:0x8a7f6641be346e2c!8m2!3d-23.5091634!4d-46.6685695" target="_blank" rel="noopener">map</a>)</p>
+<p>Tickets: <a href="https://pixelshow.co/compre-seu-ingresso/" target="_blank" rel="noopener">https://pixelshow.co/compre-seu-ingresso/</a></p>
+<p>Workshops (prices apart): <a href="https://pixelshow.co/workshops/" target="_blank" rel="noopener">https://pixelshow.co/workshops/</a></p>
+<p>Discount possibilities: <a href="https://pixelshow.co/promoter/" target="_blank" rel="noopener">https://pixelshow.co/promoter/</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Feventos%2Fpixel-show-2018-criatividade-inovacao-e-cultura%2F&amp;linkname=Pixel%20Show%202018%3A%20creativity%2C%20innovation%20and%20culture" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>The post <a rel="nofollow" href="./../eventos/pixel-show-2018-criatividade-inovacao-e-cultura/index.html">Pixel Show 2018: creativity, innovation and culture</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Redirection Plugin (WordPress) &#8211; importing via CSV?</title>
+		<link>./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/index.html</link>
+					<comments>./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2018 19:39:26 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<guid isPermaLink="false">./../../index.html?p=1266</guid>
+
+					<description><![CDATA[<p>These days, I had Google Search Console warnings about urls on the site that were moving to page 404. They were urls used by the old version of my site, which had a different link structure and post types. For <a href="./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/index.html">Redirection Plugin (WordPress) &#8211; importing via CSV?</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>These days, I had Google Search Console warnings about urls on the site that were moving to page 404. They were urls used by the old version of my site, which had a different link structure and post types.</p>
+<p><span id="more-1266"></span></p>
+<p>For that, I started using the plugin Redirection, WordPress. This plugin allows you to redirect old urls without the need to use the .htaccess file, but directly in the CMS panel.</p>
+<p>The problem is that if you choose to do handy, you will have to do the redirects, one by one, urls, type of redirect, etc. That would take a long time.</p>
+<p>The plugin also offers the option of importing multiple redirects at once, by .htaccess file, CSV spreadsheet and others. The CSV worksheet was the best option for me.</p>
+<p><img class="aligncenter wp-image-1285" src="./../../wp-content/uploads/2018/11/wpredir1.jpg" alt="" width="700" height="382" /></p>
+<p>However, the spreadsheet model offered by the program, when we click on export to CSV and then replace with our data, is not the most appropriate to separate the columns by &#8220;commas&#8221; instead of &#8220;semicolon.&#8221;</p>
+<p><img class="aligncenter wp-image-1286" src="./../../wp-content/uploads/2018/11/wpredir2.jpg" alt="" width="700" height="375" /></p>
+<p>It took some time for me to touch it, but I was able to resolve the problem by opening the CSV in a code / text editor and replacing commas with semicolons.</p>
+<p><img class="aligncenter wp-image-1287" src="./../../wp-content/uploads/2018/11/wpredir4.jpg" alt="" width="700" height="403" /></p>
+<p>Solving this problem, Excel was able to recognize the columns of the CSV and thus insert and change the data.</p>
+<p><img class="aligncenter wp-image-1288" src="./../../wp-content/uploads/2018/11/wpredir5.jpg" alt="" width="700" height="441" /></p>
+<p>But for the Redirection plugin to know, I had to rewind the commas again, replacing them with the code editor. Just as soon as his importer accepts it, it worked.</p>
+<p><img class="aligncenter wp-image-1289" src="./../../wp-content/uploads/2018/11/wpredir6.jpg" alt="" width="700" height="449" /></p>
+<p><img class="aligncenter wp-image-1290" src="./../../wp-content/uploads/2018/11/wpredir7.jpg" alt="" width="700" height="349" /></p>
+<p><img class="aligncenter wp-image-1291" src="./../../wp-content/uploads/2018/11/wpredir8.jpg" alt="" width="700" height="330" /></p>
+<p>Anyway, I hope they correct this issue in the next versions, thanks for the attention 😉</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fcms%2Fwordpress%2Fredirection-plugin-wordpress-como-importar-via-planilha%2F&amp;linkname=Redirection%20Plugin%20%28WordPress%29%20%E2%80%93%20importing%20via%20CSV%3F" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>The post <a rel="nofollow" href="./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/index.html">Redirection Plugin (WordPress) &#8211; importing via CSV?</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../cms/wordpress/redirection-plugin-wordpress-como-importar-via-planilha/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Massive updates</title>
+		<link>./../atualizacoes/atualizacoes-em-massa/index.html</link>
+					<comments>./../atualizacoes/atualizacoes-em-massa/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Mon, 22 Oct 2018 17:19:59 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">./../../index.html?p=1163</guid>
+
+					<description><![CDATA[<p>Hello fellas, how are you going? I&#8217;ve done a massive content update for the new theme I&#8217;m building. For now I am using this theme as temporary, which in itself not only comes close to what I want to do, <a href="./../atualizacoes/atualizacoes-em-massa/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../atualizacoes/atualizacoes-em-massa/index.html">Massive updates</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>Hello fellas, how are you going?</p>
+<p>I&#8217;ve done a massive content update for the new theme I&#8217;m building. For now I am using this theme as temporary, which in itself not only comes close to what I want to do, but is also very good.</p>
+<p>Besides the new theme, I will have some new work to disclose, others to &#8220;dig up&#8221; and the site will also have more news content from now on.</p>
+<p>All the best,</p>
+<p>Bruno</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=.%2Fen%2Fatualizacoes%2Fatualizacoes-em-massa%2F&amp;linkname=Massive%20updates" title="WhatsApp" rel="nofollow noopener" target="_blank"></a></p><p>The post <a rel="nofollow" href="./../atualizacoes/atualizacoes-em-massa/index.html">Massive updates</a> appeared first on <a rel="nofollow" href="./../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../atualizacoes/atualizacoes-em-massa/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

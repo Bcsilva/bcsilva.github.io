@@ -1,0 +1,20 @@
+[0.0336] Info: WP_Query results written to log
+[0.0007] Registered sizes: ["thumbnail","medium","medium_large","large","full"]
+[0.0009] Meta indexed so far: 1 / 249
+[0.0024] Sample meta:
+{"width":472,"height":472,"file":"2018\/10\/P_20170225_165759__-2.jpg","image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
+[0.3967] Meta indexed so far: 249 / 249
+[0.0006] Meta indexed so far: 101 / 249
+[0.0005] Meta indexed so far: 201 / 249
+[0.0711] Meta indexed so far: 249 / 249
+[0.0818] Info: Valid and Invalid meta results written to log
+[0.0172] Info: Loaded attachments to memory [52.25 mb]
+[0.0744] Info: 1396 Images found [53.25 mb]
+[0.3372] Info: 655 Invalid images found [53.5 mb]
+[0.3975] Info: Retrieved attachment images from DB [52.25 mb]
+[0.5422] Info: Backup meta results written to log [52.25 mb]
+[0.0036] Posts checked for used images 1/32
+[0.1104] Info: Invalid post image meta results written to log
+Warning: skipping script index because of too many image files
+[0.0066] Warning: skipping attachment index because of too many image files
+[0.0187] Info: Unreferenced image file results written to log

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://bcsilva.com/wp-content/uploads/2018/10/Produtos-%E2%80%93-VicDress-150x150.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://bcsilva.com/wp-content/uploads/2018/10/Produtos-%E2%80%93-VicDress-150x150.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://bcsilva.com/wp-content/uploads/2018/10/Produtos-%E2%80%93-VicDress-150x150.jpg">https://bcsilva.com/wp-content/uploads/2018/10/Produtos-%E2%80%93-VicDress-150x150.jpg</a></p>
+	</body>
+</html>

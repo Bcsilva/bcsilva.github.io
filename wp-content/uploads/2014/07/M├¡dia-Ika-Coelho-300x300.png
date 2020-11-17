@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://bcsilva.com/wp-content/uploads/2014/07/M%C3%ADdia-Ika-Coelho-300x300.png">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://bcsilva.com/wp-content/uploads/2014/07/M%C3%ADdia-Ika-Coelho-300x300.png";
+		</script>
+
+		<p>You are being redirected to <a href="https://bcsilva.com/wp-content/uploads/2014/07/M%C3%ADdia-Ika-Coelho-300x300.png">https://bcsilva.com/wp-content/uploads/2014/07/M%C3%ADdia-Ika-Coelho-300x300.png</a></p>
+	</body>
+</html>

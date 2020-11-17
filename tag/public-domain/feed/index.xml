@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>public domain &#8211; BCSilva</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Graphic &#38; Webdesign</description>
+	<lastBuildDate>Mon, 25 Feb 2019 02:09:20 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2019/01/cropped-bcsilva-black-32x32.png</url>
+	<title>public domain &#8211; BCSilva</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>OpenGameArt + alguns materiais meus</title>
+		<link>./../../../gamedev/opengameart-alguns-materiais-meus/index.html</link>
+		
+		<dc:creator><![CDATA[bcsilva]]></dc:creator>
+		<pubDate>Mon, 25 Feb 2019 01:33:24 +0000</pubDate>
+				<category><![CDATA[freebies]]></category>
+		<category><![CDATA[Gamedev]]></category>
+		<category><![CDATA[opengameart[]]></category>
+		<category><![CDATA[public domain]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1364</guid>
+
+					<description><![CDATA[<p>Conheça a OpenGameArt, um site onde você poderá encontrar muitos materiais, relacionados a jogos, de domínio público para usar em seus projetos. Também estou disponibilizando alguns por ele! <a href="./../../../gamedev/opengameart-alguns-materiais-meus/index.html"></p>
+<div class="read-more">
+<p>Read more &#8250;</p>
+</div>
+<p><!-- end of .read-more --></a></p>
+<p>The post <a rel="nofollow" href="./../../../gamedev/opengameart-alguns-materiais-meus/index.html">OpenGameArt + alguns materiais meus</a> appeared first on <a rel="nofollow" href="./../../../index.html">BCSilva</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Conheça a OpenGameArt, um site onde você poderá encontrar muitos materiais, relacionados a jogos, de domínio público para usar em seus projetos. Também estou disponibilizando alguns por ele!</p>
+
+<p>&nbsp;</p>
+
+<p><span id="more-1364"></span></p>
+
+<p>&nbsp;</p>
+
+<p>Olá pessoal, tudo bem?</p>
+
+<p>&nbsp;</p>
+
+<p>Durante esses anos, tive vários experimentos com desenvolvimento de jogos, onde pude programar, trabalhar com animações 2d e level design por hobby.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><img class="aligncenter" src="https://baixaki.com.br/imagens/internas/sonicbras7.jpg" alt="Porco-espinho nacional" />
+<figcaption><a href="https://www.baixaki.com.br/download/brasonic.htm" target="_blank" rel="noreferrer noopener" aria-label="Clique aqui para baixar (opens in a new tab)">Clique aqui para baixar</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
+<p>Um exemplo deles é o <strong>BraSonic</strong>, um jogo freeware que lancei em 2004, que consiste num Sonic the Hedgehog verde e amarelo, que passava por fases baseadas nos cenários brasileiros. Além dele, me aventurei em outros projetos de jogos 2d, incluindo a sequência do BraSonic, em meu tempo livre, que infelizmente não pude levar muito adiante por conta da falta de tempo investido nisso.</p>
+
+<p>&nbsp;</p>
+
+<p>Atualmente, estou desenterrando parte desses trabalhos, os quais fiz do zero, que acredito que possam ser úteis para desenvolvedores de jogos usarem em seus projetos.</p>
+
+<p>&nbsp;</p>
+
+<p>Uma das soluções onlines destinadas a artistas visuais, sonoros e etc, que optem por fazer parte de suas obras reaproveitáveis, é o <strong><a href="https://opengameart.org/">OpenGameArt</a></strong>, um site que disponibiliza materiais gratuitos que possam ser reaproveitados por outros artistas e desenvolvedores de jogos.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><img class="aligncenter" src="https://educacaolivrebti.files.wordpress.com/2015/04/open-game-art.jpg" alt="Resultado de imagem para open game art" /></figure>
+
+<p>&nbsp;</p>
+
+<p>O acervo do site já conta com milhares de materiais de arte 2d e 3d, pixel-art, efeitos sonoros, trilhas musicais, todas com níveis de licença de uso, tais como Creative Commons e GPL. Lembra um pouco sites como <strong>Pixabay</strong>, só que mais específico.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><a href="https://opengameart.org/" target="_blank" rel="noopener noreferrer"><img class="wp-image-1367 aligncenter" src="./../../../wp-content/uploads/2019/02/image-2-1024x766.png" rel='magnific' alt="Opengameart.org" /></a></figure>
+
+<p>&nbsp;</p>
+
+<p>Dos trabalhos, estão sendo disponibilizadas animações 2d de personagens, cenários de fundo e frente (tilesets). A maior parte inspirado nos jogos 2d da era 16 bit, como o próprio Sonic.</p>
+
+<p>&nbsp;</p>
+
+<figure class="wp-block-image"><a href="https://opengameart.org/users/bcsilva" target="_blank" rel="noopener noreferrer"><img class="wp-image-1366 aligncenter" src="./../../../wp-content/uploads/2019/02/image-1.png" rel='magnific' alt="bcsilva@opengameart" /></a></figure>
+
+<p>&nbsp;</p>
+
+<p>Para acessá-los, basta clicar <a href="https://opengameart.org/users/bcsilva">neste link: https://opengameart.org/users/bcsilva</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>E peço, por gentileza, para me creditar ao usar algum de meus materiais.</p>
+
+<p>&nbsp;</p>
+
+<p>Bom proveito!</p>
+<p>The post <a rel="nofollow" href="./../../../gamedev/opengameart-alguns-materiais-meus/index.html">OpenGameArt + alguns materiais meus</a> appeared first on <a rel="nofollow" href="./../../../index.html">BCSilva</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
